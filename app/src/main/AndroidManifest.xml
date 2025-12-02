@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mediq">
         <activity
+            android:name=".ActivityDaftar"
+            android:exported="false" />
+        <activity
             android:name=".Activity_home"
             android:exported="false" />
         <activity
